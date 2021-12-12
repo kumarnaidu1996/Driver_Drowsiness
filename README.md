@@ -32,8 +32,10 @@ Before this, I worked on different architecture and with different Optimizers. H
 ![image](https://user-images.githubusercontent.com/75533233/145724587-e0149421-d09a-4560-9079-32157adbbe0d.png)
 ![image](https://user-images.githubusercontent.com/75533233/145724590-7b0438b0-bdb1-4344-bdf1-ccbe196216c4.png)
 ![image](https://user-images.githubusercontent.com/75533233/145724594-24576cfb-7bf6-4f41-8073-8c42cdaf3c41.png)
+
 The final model's results with Adam as optimizer are below 
 ![image](https://user-images.githubusercontent.com/75533233/145724604-e99a6f11-8480-4fb2-bf1d-22e49c2cf897.png)
+
 After I used Early stop function
 ![image](https://user-images.githubusercontent.com/75533233/145724610-90e13b24-74b5-4425-9b4e-c78db788b736.png)
 
