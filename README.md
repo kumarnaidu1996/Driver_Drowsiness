@@ -40,8 +40,8 @@ After I used Early stop function
 ![image](https://user-images.githubusercontent.com/75533233/145724610-90e13b24-74b5-4425-9b4e-c78db788b736.png)
 
 # Pre-build models
-- The “haar cascade files” folder consists of the xml files that are needed to detect objects from the image. In our case, we are detecting the face and eyes of the person.
-- The models folder contains our model file “Drowsiness_CNN_Model_tf1.h5” which was trained on Convolutional Neural Networks.
+- "haarcascade_frontalface_alt.xml", "haarcascade_lefteye_2splits.xml" and "haarcascade_righteye_2splits.xml" files that are needed to detect objects from the image. In our case, we are detecting the face and eyes of the person.
+- The “Drowsiness_CNN_Model_tf1.h5” which was trained on Convolutional Neural Networks.
 - There is an audio clip “alarm.wav” which is played when the person is feeling drowsy.
 -“Live Prediction.ipynb” is the main file of our project. To start the detection procedure, we have to run this file.
 
