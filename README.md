@@ -47,7 +47,9 @@ After I used Early stop function
 
 # Result 
 The below are the output of the project 
+
 ![Open](https://user-images.githubusercontent.com/75533233/145725038-9476e7a4-4232-42bc-b0e8-1e63dccd097e.png)
+
 ![Closed](https://user-images.githubusercontent.com/75533233/145725048-71c19702-3d52-44d0-a77d-ffaa78fb5b40.png)
 
 
