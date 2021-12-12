@@ -43,7 +43,8 @@ After I used Early stop function
 - "haarcascade_frontalface_alt.xml", "haarcascade_lefteye_2splits.xml" and "haarcascade_righteye_2splits.xml" files that are needed to detect objects from the image. In our case, we are detecting the face and eyes of the person.
 - The “Drowsiness_CNN_Model_tf1.h5” which was trained on Convolutional Neural Networks.
 - There is an audio clip “alarm.wav” which is played when the person is feeling drowsy.
--“Live Prediction.ipynb” is the main file of our project. To start the detection procedure, we have to run this file.
+- “Live Prediction.ipynb” is the main file of our project. To start the detection procedure, we have to run this file.
+- "Driver_Drowsiness_CNN_Network.ipynb" file is the CNN architecture and model training code of the final model.
 
 # Result 
 The below are the output of the project 
