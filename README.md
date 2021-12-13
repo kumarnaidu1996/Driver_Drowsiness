@@ -1,5 +1,5 @@
 # Driver_Drowsiness
-The project is about the indication of driver's drowsiness system. It observes the drivers behaviour and buzz the alarm if the driver is sleepy while driving. With the implimentation of this project, we could avoid the road traffic colleasion to certain level. 
+The project is about the indication of driver's drowsiness system. It observes the drivers behavior and buzz the alarm if the driver is sleepy while driving. With the implementation of this project, we could avoid the road traffic collision to certain level. 
 
 In this Python project, I used be using OpenCV for gathering the images from webcam and feed them into a Deep Learning CNN trained model which will classify whether the person’s eyes are ‘Open’ or ‘Closed’. The approach we will be using for this Python project is as follows :
 
